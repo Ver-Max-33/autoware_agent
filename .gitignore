@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated diagrams
+agent_flow.mmd
+agent_flow.pdf
+
+# Local data/cache directories
+data/
+
+# macOS artifacts
+.DS_Store
